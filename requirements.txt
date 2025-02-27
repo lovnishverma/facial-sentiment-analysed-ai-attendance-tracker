@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+face_recognition @ git+https://github.com/ravinder2023/dlib_face_recognition.git
+tensorflow
+keras
+pandas
+numpy
