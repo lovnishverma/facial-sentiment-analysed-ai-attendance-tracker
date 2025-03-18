@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-face_recognition @ git+https://github.com/ravinder2023/dlib_face_recognition.git
+face_recognition @ git+https://github.com/lovnishverma/face_recognition.git
 tensorflow
 keras
 pandas
