@@ -1,5 +1,13 @@
 Face and Emotion Recognition-Based Attendance System
 
+• Live View [Password is (nielit)]:
+
+https://faceemotionielit.streamlit.app/
+
+![download (1)](https://github.com/user-attachments/assets/46d12cd2-bf53-422a-b300-f12e3f2cf0df)
+
+![download](https://github.com/user-attachments/assets/096048e1-be5c-41b1-b4bf-76c4e9e80440)
+
 • This project is an AI-powered attendance system that utilizes face 
 
 recognition and emotion detection to mark attendance 
@@ -26,6 +34,3 @@ tracking feature.
 
 • Source Code: https://github.com/lovnishverma/facial-sentiment-analysed-ai-attendance-tracker
 
-• Live View [Password is (nielit)]:
-
-https://faceemotionielit.streamlit.app/
