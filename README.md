@@ -4,9 +4,11 @@ Face and Emotion Recognition-Based Attendance System
 
 https://faceemotionielit.streamlit.app/
 
-![download (1)](https://github.com/user-attachments/assets/46d12cd2-bf53-422a-b300-f12e3f2cf0df)
+![WhatsApp Image 2025-03-17 at 11 45 01_fe5c46ad](https://github.com/user-attachments/assets/468be307-ce1e-4cd8-8bcc-3200381a593d)
 
-![download](https://github.com/user-attachments/assets/096048e1-be5c-41b1-b4bf-76c4e9e80440)
+
+![WhatsApp Image 2025-03-17 at 11 44 03_aa95d0bd](https://github.com/user-attachments/assets/de6ca45b-c945-4059-ba36-02deededba34)
+
 
 • This project is an AI-powered attendance system that utilizes face 
 
