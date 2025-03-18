@@ -206,7 +206,7 @@ def view_attendance_records():
 
 # --- Main Logic ---
 if __name__ == "__main__":
-    st.title("EMOTION-MARK-AI (FACIAL SENTIMENT ANALYSIZED ATTENDANCE TRACKER)")
+    st.title("FACIAL SENTIMENT ANALYSIZED ATTENDANCE TRACKER")
     # Larger title
     st.markdown("<h2 style='text-align: center;'>Can Recognise Face and Detect:</h2>", unsafe_allow_html=True)
     # Smaller subtitle
