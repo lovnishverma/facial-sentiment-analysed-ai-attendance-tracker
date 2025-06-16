@@ -146,13 +146,13 @@ def recognize_face():
 
 ![System Interface](424140652-468be307-ce1e-4cd8-8bcc-3200381a593d.jpg)
 
-![WhatsApp Image 2025-03-17 at 11 45 01_fe5c46ad](https://github.com/user-attachments/assets/468be307-ce1e-4cd8-8bcc-3200381a593d)  
+![Screenshot 1](https://github.com/user-attachments/assets/468be307-ce1e-4cd8-8bcc-3200381a593d)  
 
-![WhatsApp Image 2025-03-17 at 11 44 03_aa95d0bd](https://github.com/user-attachments/assets/de6ca45b-c945-4059-ba36-02deededba34)  
+![Screenshot 2](https://github.com/user-attachments/assets/de6ca45b-c945-4059-ba36-02deededba34)  
 
-![Screenshot 1](https://github.com/user-attachments/assets/5ca0c141-ba6a-48ad-963f-812365edcbb8)  
+![Screenshot 3](https://github.com/user-attachments/assets/5ca0c141-ba6a-48ad-963f-812365edcbb8)  
 
-![Screenshot 2](https://github.com/user-attachments/assets/6921a584-7009-4c78-b7ba-c54316835056)  
+![Screenshot 4](https://github.com/user-attachments/assets/6921a584-7009-4c78-b7ba-c54316835056)  
 
 ## Deployment
 
