@@ -144,8 +144,6 @@ def recognize_face():
 
 ## Screenshots
 
-![System Interface](424140652-468be307-ce1e-4cd8-8bcc-3200381a593d.jpg)
-
 ![Screenshot 1](https://github.com/user-attachments/assets/468be307-ce1e-4cd8-8bcc-3200381a593d)  
 
 ![Screenshot 2](https://github.com/user-attachments/assets/de6ca45b-c945-4059-ba36-02deededba34)  
